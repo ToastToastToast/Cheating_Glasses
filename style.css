@@ -3,6 +3,24 @@ body{
 	color: rgb(17, 17, 17);
 }
 
+#container{
+    width: 100%;
+    min-width: 1000px;
+    margin: auto;
+}
+#left {
+    float: left;
+    width: 20%;
+}
+#content {
+    float: left;
+    width: 60%;
+}
+#right {
+    float: right;
+    width: 20%;
+}
+
 .cole-1{
 	/*color: black;*/
 	font-family: "Courier New", Monospace;
